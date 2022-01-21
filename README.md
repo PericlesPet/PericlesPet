@@ -1,6 +1,5 @@
-### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PericlesPet)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=periclespet&theme=dark&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=2F0DDD)](https://git.io/streak-stats)
 
 
 <!--
