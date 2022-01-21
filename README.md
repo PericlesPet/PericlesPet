@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PericlesPet)](https://git.io/streak-stats)
+
+
 <!--
 **PericlesPet/PericlesPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
