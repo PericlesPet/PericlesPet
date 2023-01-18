@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=periclespet&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=periclespet&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues) -->
 
 
 <!-- <p align="center">
